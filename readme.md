@@ -1,4 +1,4 @@
-# Git-ting started with Git
+# Git-ting started with Git and push to GitHub
 
 #### A fun project to learn to git as part of the __DevMarketer__ comunity.
 
